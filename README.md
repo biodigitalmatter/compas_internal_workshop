@@ -75,8 +75,6 @@
 
 ## 10.15-11.00: Hello world in GhPython
 
-
-
 ## 11.15-12.00: Geometry as objects
 
 - [compas API](https://compas.dev/compas/latest/api.html)
